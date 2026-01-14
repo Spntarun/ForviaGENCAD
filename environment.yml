@@ -1,0 +1,10 @@
+name: cad_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pythonocc-core=7.8.1
+  - streamlit
+  - numpy
+  - pip
